@@ -1,4 +1,5 @@
-﻿Responzivní breakpointy (místa, kde se mění rozložení stránky):
+
+Responzivní breakpointy (místa, kde se mění rozložení stránky):
 
 Mobilní verze - šířka do 500px
 ==============================
