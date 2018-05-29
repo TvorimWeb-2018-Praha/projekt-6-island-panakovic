@@ -236,9 +236,9 @@ h2 {
     }
     .foto .popisek {
         display: block;
-        position: relative;
+        position: absolute;
         background-color: rgba(8, 8, 8, 0.5);
-        bottom: 40px;
+        bottom: 0;
         width: 100%;
         right: 0;
         text-align: center;
